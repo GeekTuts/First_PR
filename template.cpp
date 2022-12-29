@@ -29,6 +29,12 @@ const long long INF = 2e9;
 #define ppcll(x) __builtin_popcountll(x)
 #define for0(i,a,b) for(int i=a;i<b;i++)
 
+void feature1(){
+    // merging with main branch after merging feature2 and feature1_1.
+    // this feature1 has no presolve line, want to see whether merge conflict 
+    // will arise.
+}
+
 void solve(){
 // this is a test to add a feature in my cloned repo.
 // adding this line after making changes in feature2  branch template.cpp file. 
