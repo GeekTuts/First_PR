@@ -30,10 +30,13 @@ const long long INF = 2e9;
 #define for0(i,a,b) for(int i=a;i<b;i++)
 
 void solve(){
+// this is a test to add a feature in my cloned repo.
+// adding this line after making changes in feature2  branch template.cpp file. 
 // this is from feature2  temp , surprised i didn't see feature1 line
-}
+}   
 
 void presolve(){
+    // inside feature1_1 making first line change.
 }
 
 signed main() {
