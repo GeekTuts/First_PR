@@ -37,6 +37,9 @@ void presolve(){
 }
 
 signed main() {
+    #ifndef ONLINE_JUDGE
+        freopen("error.txt","w",stderr)
+    #endif
 ios::sync_with_stdio(false);
 cin.tie(0);
     int tests=1;
