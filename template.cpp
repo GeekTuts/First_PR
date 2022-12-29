@@ -30,8 +30,8 @@ const long long INF = 2e9;
 #define for0(i,a,b) for(int i=a;i<b;i++)
 
 void solve(){
-    
-}   
+// this is from feature2  temp , surprised i didn't see feature1 line
+}
 
 void presolve(){
 }
